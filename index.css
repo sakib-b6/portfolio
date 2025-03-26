@@ -224,6 +224,7 @@ img { max-width: 100%; height: auto; display: block; }
     cursor: pointer;
     backdrop-filter: blur(10px);
     transition: .3s;
+    text-align: center      ;
 }
 
     .portfolio-img:hover .portfolio-link { bottom: 0; }
